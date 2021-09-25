@@ -1,7 +1,7 @@
 {
 	"testimonials": {
 		"article": {
-			"quote": "\n          What they said\n        ",
+			"quote": "<p>What they <strong>said</strong></p>",
 			"author": "Fred Jones",
 			"date": "2021-09-23"
 		}
