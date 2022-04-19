@@ -2,8 +2,21 @@
 	"testimonials": [
 		{
 			"article": {
-				"quote": "<p>What they <strong>said</strong></p>",
-				"author": "Fred Jones",
+				"author": "Jimmy",
+				"date": "2022-04-19"
+			}
+		},
+		{
+			"article": {
+				"quote": "<ul>\n<li>Something said.</li>\n</ul>",
+				"author": "Little Jim",
+				"date": "2022-04-19"
+			}
+		},
+		{
+			"article": {
+				"quote": "<p>Tell me of Anna Livia, tell me!</p>",
+				"author": "Dorothy",
 				"date": "2021-09-23"
 			}
 		}
